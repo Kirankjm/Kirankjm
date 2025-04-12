@@ -1,0 +1,6 @@
+a = input("enter your feelings:")
+print("my feeling  is",a)
+a =input("enter the number that u like")
+b=input("enter the number that u want")
+print(int(a) + int(b)) 
+print(a + b)

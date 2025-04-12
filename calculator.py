@@ -1,0 +1,11 @@
+print(5**6)
+print(15*6)
+print(5//6)
+print(5%6)
+print(5/6)
+print(5**6)
+a=50;b=45
+print("the value of:", a, "*", b, "is",a*b)
+print("the value of:", a, "-", b, "is",a-b)
+print("the value of:", a, "/", b, "is",a/b)
+print("the value of:", a, "%", b, "is",a%b)
