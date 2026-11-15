@@ -1,0 +1,22 @@
+1  - TypeError: object of type 'NoneType' has no len()
+2  -    print("ohh r u doing " + tynn)
+          ~~~~~~~~~~~~~~~~~^~~~~~
+TypeError: can only concatenate str (not "NoneType") to str
+3 -  print("hello"[-8])
+
+IndexError: string index out of range
+4 -     print(hii)
+          ^^^
+NameError: name 'hii' is not defined
+
+5 -  print(int("234") + int("hju"))
+                       ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'hju'
+
+6 --  a = digit[0] + digit[1]
+        ~~~~~^^^
+TypeError: 'int' object is not subscriptable
+
+7-- b = int(input("enter your height"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '5.5'

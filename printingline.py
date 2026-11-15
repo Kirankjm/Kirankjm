@@ -1,0 +1,5 @@
+print("1.mix 500g of flour, 10g yeast,300ml of water in a bowl.")
+print("2.knead the dough for 10min.")
+print("3.Add 3g  of salt.")
+print("4.leave to rise for 2hr.")
+print("5.bake at 200 deg c for 30min.")
