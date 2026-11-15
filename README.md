@@ -1,6 +1,8 @@
 - 👋 Hi, I’m kiran
 - 👀 I’m interested in developing innovative things
-- 🌱 I’m currently learning computer science
+- 🌱 Enthusiast in technologies...
+- Invent many projects through learning....
+keep growing , keep updated and keep innovations....
   
 
 
